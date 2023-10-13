@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kisoft-tech
 
-- 📫 How to reach me: bojan@kisoft80.onmicrosoft.com
+- 📫 How to reach me: bojan@kisoft.tech
 
 <!---
 kisoft-tech/kisoft-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
